@@ -1,0 +1,42 @@
+body {
+    font-family: 'Playwrite CU';
+    border: 1.5px solid black;
+    border-radius: 2rem;
+    width: 315px;
+    text-align: center;
+    margin: auto;
+    margin-top: 150px;
+
+}
+    
+.ontati{
+    border: 1px solid black;
+    border-radius: 2rem;
+}
+
+.subi{
+margin-bottom: 30px;
+margin-left:0px;
+}
+
+
+input[type=submit] {
+    padding:3px 100px;
+    background:white;
+    border: 1px solid rgb(199, 194, 194);
+    cursor: pointer;
+    border-radius: 15px
+}
+
+input[type= Email] {
+    background:white;
+    border: 1px solid rgb(199, 194, 194);
+    padding: 4px; 
+    
+}
+
+input[type= text] {
+    background:white;
+    border: 1px solid rgb(199, 194, 194);
+    padding: 5px;
+}
